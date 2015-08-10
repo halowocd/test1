@@ -18,6 +18,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         
         print("test1");
         print("nothing");
+        print("xxxxxxx");
     
     }
 
