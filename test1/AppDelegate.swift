@@ -14,7 +14,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     @IBOutlet weak var window: NSWindow!
     
     func help(){
-    
+    //sadasdasdsadas
         
         print("test1");
         print("nothing");
