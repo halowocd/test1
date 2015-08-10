@@ -15,7 +15,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     
     func help(){
     
-        print("nothing");
+        print("xxxxxxx");
     
     }
 
